@@ -1,0 +1,4 @@
+Id	Categoria	Posicao
+abc	Nome_da_lista_id1	Pro_Bolsonaro
+cde	Nome_da_lista_id1	Pro_Lula
+xyz	Nome_da_lista_id1	Neutro_Indeciso

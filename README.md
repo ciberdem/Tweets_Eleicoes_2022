@@ -1,5 +1,7 @@
 # Tweets_Eleicoes_2022
 
+Contexto:
+
 Ao longo dos últimos vinte anos as disputas eleitorais têm sido impactadas diretamente pelo fenômeno das redes sociais. Os políticos que souberam interagir com os diferentes grupos de eleitores, através das redes, tiveram impactos positivos em suas campanhas.
 
 No entanto, esse ambiente também se tornou fértil para fenômenos negativos como a ultra polarização das discussões políticas, com grupos radicais manipulando como os fatos são absorvidos dentro de suas “bolhas” de influência, impactando diretamente os rumos das campanhas eleitorais. O Brasil não ficou alheio a essa condição. Por exemplo, o ano de 2022 ´e considerado um dos períodos eleitorais mais polarizados da história brasileira.
@@ -67,4 +69,8 @@ Passo D: Geração de relatório - PDF (opcional)
 1. Configurar os diretórios, nomes dos arquivos de entrada e saída, diretório de armazenamento dos arquivos, etc. - Tese_GeraPDF_Geral_Modularidade_v2023
 2. Executar o processo de análise
 
+Observações:
 
+(*) - A partir de 2023 o Twitter passou a cobrar para todo acesso as suas APIs, removendo acessos gratuitos que haviam antes (Ex: pesquisadores). Portanto para conseguir um token de acesso terá que ser utilizado um plano pago disponibilizado pelo Twitter na época. 
+
+(**) - O Pipeline foi construido no intuito de suprir uma lacuna existente hoje que é a de existir um processo padronizado para visualização de discussões políticas dentro da esfera das redes sociais, providenciando para isso a extração, processamento e apresentação dos dados de análise. Ele foi criado a partir de estudo das necessidades, uso de exemplo de códigos disponíveis na Internet e integração com uma ferramenta Open Source (Gephi).  

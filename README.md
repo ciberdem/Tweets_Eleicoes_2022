@@ -26,6 +26,7 @@ Lista de Arquivos do Pipeline:
 6.	Tese_GeraPDF_Geral_Modularidade_v2023: Módulo ilustrativo da geração de arquivos PDF para exposição dos resultados.
 
 Howto de Execução
+
 ![image](https://github.com/ciberdem/Tweets_Eleicoes_2022/assets/142453499/0c1f8f6f-8290-45c9-b5ee-335bec914624)
 
 Preparação:

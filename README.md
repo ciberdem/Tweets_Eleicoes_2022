@@ -12,7 +12,7 @@ O pipeline é estruturado como um processo que atua em conjunto com programas de
 
 O pipeline permite gerar visualizações dos principais atores, agrupamentos de perfis e os diferentes pontos de discussão dentro desses grupos, evidenciando o movimento da polarização nas redes a partir das discussões sobre a ocorrência e divulgação dos fatos ao longo do tempo.
 
-Nesse repositório se encontra disponível os arquivos fontes utilizados para execução da pipeline.
+Nesse repositório se encontram disponíveis os arquivos fontes utilizados para execução do pipeline.
 
 **Lista de Arquivos do Pipeline:**
 

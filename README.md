@@ -1,13 +1,21 @@
 # Tweets_Eleicoes_2022 - Pipeline de Processamento de Dados 
 
 Contexto:
+
 As disputas eleitorais têm sido impactadas diretamente pelo fenômeno das redes sociais.  Esses ambientes se tornaram férteis para observar fenômenos como a ultra polarização das discussões políticas, a radicalização e a manipulação de fatos dentro de “bolhas” de influência. 
+
 Torna-se importante entender, ao longo do debate político, como os grupos se formam e se relacionam dentro das redes sociais, quem são seus principais influenciadores, como se posicionam e como se dá a dinâmica de discussão entre eles em relação a eventos que acontecem fora das redes.
+
 O ano de 2022 é considerado um dos períodos eleitorais mais polarizados da história brasileira. A pesquisa "Monitoramento de discussões políticas no Twitter durante as Eleições de 2022 no Brasil: polarização, agrupamento e principais atores" (publicação em breve), desenvolvida no âmbito do CIBERDEM e do Programa de Pós-Graduação em Computação Aplicada da Universidade Presbiteriana Mackenzie , teve como objetivo propor a construção de um pipeline de extração e processamento dos dados do Twitter a partir de eventos políticos relevantes durante o processo eleitoral para presidência do Brasil em 2022.
+
 O pipeline é estruturado como um processo que atua em conjunto com programas desenvolvidos em Python para extração e tratamento dos dados obtidos do Twitter e a visualização dos dados com uso da ferramenta de análise de redes sociais Gephi (https://gephi.github.io/).
+
 O pipeline permite gerar visualizações dos principais atores, agrupamentos de perfis e os diferentes pontos de discussão dentro desses grupos, evidenciando o movimento da polarização nas redes a partir das discussões sobre a ocorrência e divulgação dos fatos ao longo do tempo.
+
 Nesse repositório se encontra disponível os arquivos fontes utilizados para execução da pipeline.
+
 Lista de Arquivos do Pipeline:
+
 1.	Extrai_tweets - Módulo de extração dos Tweets - Passo 1 (Notebook Jupyter)
 2.	IDs_Lista_Distribuicao_Twitter.txt - Arquivo com os IDs das listas de distribuição usadas para conseguir a lista de usuários e executar a categorização (necessita "hidratação" a partir do Twitter)
 3.	Twitter_contas_br_2022_exemplo.txt - Exemplo do arquivo com os usuários extraídos das listas, com a categorização a partir da presença em cada lista e pela declaração de voto (Pro_Bolsonaro, Pro_Lula e Neutro/Indefinido)

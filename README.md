@@ -83,9 +83,10 @@ A partir dos arquivos de nodes e edges gerados após a execução do passo B:
 (*) - A partir de 2023 o Twitter passou a cobrar para todo acesso as suas APIs, removendo acessos gratuitos anteriores (Ex: pesquisadores). Portanto para conseguir um token de acesso terá que ser utilizado um plano pago disponibilizado pelo Twitter.
 
 ## **Referências:**
-xxxx
 
 [BERTANHA, M., ARAUJO, R.M., SILVA, L.J., Linha do Tempo: Eleições Presidenciais 2022](https://ciberdem.mack.com.br/index.php/linha-do-tempo-eleicoes-presidenciais-2022/)
+
+(outras referências em breve)
 
 ## **Equipe e contatos:**
 

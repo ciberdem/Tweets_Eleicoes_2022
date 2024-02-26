@@ -213,11 +213,11 @@ A elaboração da Linha do Tempo contou com o apoio do CNPq.
 |	Setembro 2022	|	GovernoSP_2109/Rodrigo	|	GovernoSP_2109_CR_2109.csv	|	21/09/2022	|	https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/09/22/pesquisa-datafolha-em-sao-paulo-haddad-tem-34percent-tarcisio-23percent-rodrigo-19percent-e-os-dois-estao-empatados-tecnicamente.ghtml	|
 |	Setembro 2022	|	GovernoSP_2109/Garcia	|	GovernoSP_2109_CR_2109.csv	|	21/09/2022	|	https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/09/22/pesquisa-datafolha-em-sao-paulo-haddad-tem-34percent-tarcisio-23percent-rodrigo-19percent-e-os-dois-estao-empatados-tecnicamente.ghtml	|
 |	Outubro 2022	|	Democracia_0110\0110	|	Democracia_0110_CR_0110.csv	|	01/10/2022	|	https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/na-vespera-do-1o-turno-presidente-do-tse-reafirma-seguranca-transparencia-e-confiabilidade-das-urnas	|
-|	Outubro 2023	|	Democracia_0110\0210	|	Democracia_0110_CR_0110.csv	|	02/10/2022	|	https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/eleitores-comecam-a-votar-nas-mais-de-472-mil-secoes-eleitorais-espalhadas-pelo-brasil	|
-|	Outubro 2024	|	Democracia_0110\0310	|	Democracia_0110_CR_0110.csv	|	03/10/2022	|	https://www.correiobraziliense.com.br/opiniao/2022/10/5041501-artigo-as-urnas-eletronicas-sao-confiaveis-e-mostram-um-pais-conservador.html	|
-|	Outubro 2025	|	RobertoJefferson_2310\1100_1500	|	RobertoJefferson_2310_CR_2310.csv	|	23/10/2022	|	https://agenciabrasil.ebc.com.br/geral/noticia/2022-10/roberto-jefferson-lancou-granada-contra-policiais-federais	|
-|	Outubro 2026	|	RobertoJefferson_2310\1500_1800	|	RobertoJefferson_2310_CR_2310.csv	|	23/10/2022	|	https://www.conjur.com.br/2022-out-23/roberto-jefferson-preso-determinacao-alexandre/	|
-|	Outubro 2026	|	Democracia_3010\2910	|	Democracia_3010_CR_3010.csv	|	29/10/2022	|	https://oglobo.globo.com/politica/eleicoes-2022/noticia/2022/10/bolsonaro-diz-que-respeitara-resultado-das-urnas-quem-tiver-mais-votos-leva-e-a-democracia.ghtml	|
+|	Outubro 2022	|	Democracia_0110\0210	|	Democracia_0110_CR_0110.csv	|	02/10/2022	|	https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/eleitores-comecam-a-votar-nas-mais-de-472-mil-secoes-eleitorais-espalhadas-pelo-brasil	|
+|	Outubro 2022	|	Democracia_0110\0310	|	Democracia_0110_CR_0110.csv	|	03/10/2022	|	https://www.correiobraziliense.com.br/opiniao/2022/10/5041501-artigo-as-urnas-eletronicas-sao-confiaveis-e-mostram-um-pais-conservador.html	|
+|	Outubro 2022	|	RobertoJefferson_2310\1100_1500	|	RobertoJefferson_2310_CR_2310.csv	|	23/10/2022	|	https://agenciabrasil.ebc.com.br/geral/noticia/2022-10/roberto-jefferson-lancou-granada-contra-policiais-federais	|
+|	Outubro 2022	|	RobertoJefferson_2310\1500_1800	|	RobertoJefferson_2310_CR_2310.csv	|	23/10/2022	|	https://www.conjur.com.br/2022-out-23/roberto-jefferson-preso-determinacao-alexandre/	|
+|	Outubro 2022	|	Democracia_3010\2910	|	Democracia_3010_CR_3010.csv	|	29/10/2022	|	https://oglobo.globo.com/politica/eleicoes-2022/noticia/2022/10/bolsonaro-diz-que-respeitara-resultado-das-urnas-quem-tiver-mais-votos-leva-e-a-democracia.ghtml	|
 
 
 

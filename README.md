@@ -27,7 +27,8 @@ Nesse repositório se encontram disponíveis os arquivos fontes utilizados para 
 No diretório **\Datasets_Desidratado**s se encontram os arquivos extraídos a partir da execução do Pipeline ao longo de 2022 e em janeiro de 2023.
 Esses arquivos têm a seguinte estrutura de dados: 
 
-![image](https://github.com/ciberdem/Tweets_Eleicoes_2022/assets/142453499/981bcedd-1053-4f5d-b057-2e209cd33b53)
+![image](https://github.com/ciberdem/Tweets_Eleicoes_2022/assets/142453499/669a335d-424c-4cdf-a681-6732faf05bcc)
+
  
 A lista completa dos **datasets** se encontra no arquivo **Execução do Pipeline - Lista de Arquivos coletados em 2022**, com o nome dos arquivos, meses e datas de extração e um link para a notícia que motivou a pesquisa. 
 
